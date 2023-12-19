@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Flood_Alert/static/css/main.88ed6722.css",
+    "main.js": "/Flood_Alert/static/js/main.31745fb2.js",
+    "static/js/787.a1f9e6de.chunk.js": "/Flood_Alert/static/js/787.a1f9e6de.chunk.js",
+    "static/media/Maplestory Bold.ttf": "/Flood_Alert/static/media/Maplestory Bold.e39287220e971b277c0e.ttf",
+    "static/media/Maplestory Light.ttf": "/Flood_Alert/static/media/Maplestory Light.9d9497585053c96c8082.ttf",
+    "static/media/map.png": "/Flood_Alert/static/media/map.682cb6d88129a7e885c3.png",
+    "index.html": "/Flood_Alert/index.html",
+    "main.88ed6722.css.map": "/Flood_Alert/static/css/main.88ed6722.css.map",
+    "main.31745fb2.js.map": "/Flood_Alert/static/js/main.31745fb2.js.map",
+    "787.a1f9e6de.chunk.js.map": "/Flood_Alert/static/js/787.a1f9e6de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88ed6722.css",
+    "static/js/main.31745fb2.js"
+  ]
+}
